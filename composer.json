@@ -1,0 +1,10 @@
+{
+    "name": "horarios/upc",
+    "description": "Sistema de gestion de horarios UPC",
+    "type": "project",
+    "require": {
+        "kreait/firebase-php": "4.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
