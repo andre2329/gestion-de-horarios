@@ -18,4 +18,4 @@ contraseña: 123456
 #### Descripción
 Este sistema fue creado para que un docente pueda ingresar una disponibilidad horaria y un administrador pueda crear docentes nuevos, proponer horarios, insertar y modificar cursos.
 #### Lenguajes de desarrollo
-El sistema fue desarrollado en PHP para el backend y utiliza Firebase en la autenticación de usuarios. El frontend esta desarrollado con html, css, javascript y el framework bootstrap.
+El sistema fue desarrollado en PHP para el backend, utiliza Firebase en la autenticación de usuarios y MySQL para la gestión de todos los datos. El frontend esta desarrollado con html, css, javascript y el framework bootstrap.
