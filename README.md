@@ -15,6 +15,7 @@ email: u201726246@upc.edu.pe<br />
 contraseña: 123456
 
 ## Especificaciones
+
 #### Descripción
 Este sistema fue creado para que un docente pueda ingresar una disponibilidad horaria y un administrador pueda crear docentes nuevos, proponer horarios, insertar y modificar cursos.
 #### Lenguajes de desarrollo
