@@ -10,7 +10,7 @@ Este es un sistema de gestión de horarios para profesores de la carrera de Inge
 | Tipo        | Email           | Contraseña  |
 | ------------- |:-------------:| -----:|
 | Administrador | admin@hotmail.com | 123456 |
-| Cliente(Docente) | u201726246@upc.edu.pe      |   123456 |
+| Cliente(Docente) | u201726246@upc.edu.pe      | 123456 |
 
 ## Especificaciones
 
