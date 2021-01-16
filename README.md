@@ -7,12 +7,10 @@ Este es un sistema de gestión de horarios para profesores de la carrera de Inge
 
 ## Credenciales
 
-<u>Vista administrador</u> <br />
-email: admin@hotmail.com <br />
-contraseña: 123456<br />
-<u>Vista cliente</u> <br />
-email: u201726246@upc.edu.pe<br />
-contraseña: 123456
+| Tipo        | Email           | Contraseña  |
+| ------------- |:-------------:| -----:|
+| Administrador | admin@hotmail.com | 123456 |
+| Cliente(Docente) | u201726246@upc.edu.pe      |   123456 |
 
 ## Especificaciones
 
